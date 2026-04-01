@@ -59,7 +59,7 @@
 
 <br>
 
-### 3. 초박막 WS2 반도체 소자 수율 혁신 (석사 연구)
+### 3. 초박막 WS2 마하 젠더 변조기의 변조 특성 연구 
 **Role:** Researcher (Semiconductor Device Physics) | **Period:** 2022.05 - 2024.02
 > **한줄 요약:** 공정 데이터 분석을 통해 결함(Residue) 원인을 규명하고 집적화된 소자 제작 성공
 
