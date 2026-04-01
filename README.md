@@ -32,40 +32,6 @@
 *   다양한 감사 사례들과 복잡한 규정을 모두 고려해야 하는 감사 판단의 어려움
 
 **[Action] 데이터 파이프라인 자동화 및 검색 정확도 고도화**
-*   **ETL 파이프라인:** 감사 보고서 크롤링 및 적재 → OCR 텍스트 추출 → 엔티티 및 메타데이터 Portfolio
-
---------------------------------------------------------------------------------
-# 물리적 공정에 대한 깊은 이해와 LLM 파이프라인 구축 역량을 함께 갖춘 데이터 사이언티스트, 이종석입니다.
-
-> **"반도체 데이터의 물리적 맥락을 이해하고, RAG 기술로 엔지니어링 솔루션을 제시합니다."**
-
-*   **Core Value:** 광학 및 반도체 도메인 지식 + RAG 파이프라인 구축 경험 보유
-*   **Tech Impact:** 비정형 감사 문서 분석 자동화 및 검색 정확도 98% 달성 (Opik/Ragas 검증)
-*   **Domain:** 반도체 소자(WS2) 제작 및 계측 데이터(SEM, AFM) 분석 경험 (Nature Communications 게재)
-
----
-
-## 기술 스택
-
-*   **Languages:** Python (Pandas, NumPy, Scikit-learn,TensorFlow), SQL
-*   **AI & LLM:** LLM API, LangChain, LangFlow, Opik, RAG Pipeline, Prompt Engineering
-*   **Data & ML:** XGBoost/LGBM, SHAP (XAI), Vector DB (Chroma, pgvector)
-*   **Engineering:** FastAPI, Docker, n8n (데이터 파이프라인 자동화),OCR, Git/GitHub
-*   **Domain Tools:** Lumerical (FDTD Simulation), Origin, MATLAB, AutoCAD
-
----
-
-## Projects
-
-### 1. 감사 정보 통합 관리 및 감사 보고서 초안 작성 서비스 (A.I.D)
-**Role:** Leader / LLM Application Developer / Data Engineer | **Period:** 2025.11 - 2026.01
-> **한줄 요약:** 비정형 감사 보고서(PDF)를 정제하여 질의응답 및 초안 작성을 돕는 RAG 기반 웹 서비스 구축
-
-**[Problem] 비정형 데이터의 검색 비효율 및 감사 판단의 비일관성**
-*   감사 보고서가 PDF/HWP 등 비정형 포맷으로 산재되어 있어 정보 검색에 과도한 시간과 자원이 소모.
-*   다양한 감사 사례들과 복잡한 규정을 모두 고려해야 하는 감사 판단의 어려움
-
-**[Action] 데이터 파이프라인 자동화 및 검색 정확도 고도화**
 *   **ETL 파이프라인:** 감사 보고서 크롤링 및 적재 → OCR 텍스트 추출 → 메타데이터 정의(감사 사례, 감사 처분) 및 엔티티 추출 AI agent 활용 → DB 적재의 전 과정 자동화 (n8n 활용).
 *   **RAG 최적화:** 단순 벡터 검색의 한계를 보완하기 위해 **Hybrid Search (Keyword + Vector)**와 **Multi-Query** 기법 도입.
 *   **재정렬(Rerank):** Reranker를 적용하여 검색 결과의 관련성을 재조정, 문맥 파악 능력 강화.
