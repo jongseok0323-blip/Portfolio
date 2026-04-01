@@ -3,21 +3,18 @@
 --------------------------------------------------------------------------------
 # 물리적 공정에 대한 깊은 이해와 LLM 파이프라인 구축 역량을 함께 갖춘 데이터 사이언티스트, 이종석입니다.
 
-> **"반도체 데이터의 물리적 맥락을 이해하고, RAG 기술로 엔지니어링 솔루션을 제시합니다."**
+> **"복잡한 물리적/공학적 제약을 정확히 이해하고, LLM과 데이터 분석 능력을 같이 활용하여 도메인 특화 엔지니어링 문제를 주도적으로 해결합니다."**
 
-*   **Core Value:** 광학 및 반도체 도메인 지식 + RAG 파이프라인 구축 경험 보유
-*   **Tech Impact:** 비정형 감사 문서 분석 자동화 및 검색 정확도 98% 달성 (Opik/Ragas 검증)
-*   **Domain:** 반도체 소자(WS2) 제작 및 계측 데이터(SEM, AFM) 분석 경험 (Nature Communications 게재)
+*   **Point 1:** 비정형 문서(PDF 등) 데이터 추출/정제 및 RAG 파이프라인 고도화 역량 보유
+*   **Point 2:** 물리/화학적 공정 원리 이해 및 시뮬레이션-실제 데이터 정합성 검증 경험
 
 ---
 
 ## 기술 스택
 
-*   **Languages:** Python (Pandas, NumPy, Scikit-learn,TensorFlow), SQL
 *   **AI & LLM:** LLM API, LangChain, LangFlow, Opik, RAG Pipeline, Prompt Engineering
-*   **Data & ML:** XGBoost/LGBM, SHAP (XAI), Vector DB (Chroma, pgvector)
-*   **Engineering:** FastAPI, Docker, n8n (데이터 파이프라인 자동화),OCR, Git/GitHub
-*   **Domain Tools:** Lumerical (FDTD Simulation), Origin, MATLAB, AutoCAD
+*   **Data & Pipeline:** n8n, PostgreSQL, OCR, Vector DB 
+*   **Engineering & Domain Tools:** Python, SQL, Lumerical (FDTD Simulation), Origin, MATLAB, AutoCAD
 
 ---
 
